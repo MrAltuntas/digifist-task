@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: 'Avenir Book';
+    src: url("/public/font/Avenir.ttc") format("truetype");
+}
+@font-face {
+    font-family: 'ITC Bk';
+    src: url("/public/font/ITCAvantGardePro-Bk.otf") format("opentype");
+}
+
+@font-face {
+    font-family: 'ITC Dm';
+    src: url("/public/font/ITCAvantGardePro-Demi.otf") format("opentype");
+}
+
+@font-face {
+    font-family: 'ITC Md';
+    src: url("/public/font/ITCAvantGardePro-Md.otf") format("opentype");
+}
